@@ -7,33 +7,38 @@ e - #2ACED1
 */
 
 #navbar {
-    background-color:#3C2F9E ;
-    width: 100px ;
+    background-color:#5b51a3;
+    width: auto;
+    height: 100px;
 }
 
 #welcome-section{
-    background-color:#E0864F;
-    width: 100px ;
+    background-color:#6d4933;
+    width: auto;
+    height: 100px;
 }
 
 #projects{
-    background-color: #3478D1;
-    width: 100px ;
+    background-color: #91a8c5;
+    width: auto;
+    height: 100px;
 }
 
 #profile-link{
-    background-color: #D1B91F;
-    width: 100px ;
+    background-color: #aad0c7;
+    width: auto;
+    height: 100px;
 }
 
 #Cursos-tech{
-    background-color: #2ACED1;
-    width: 100px ;
+    background-color: #0f0b55;
+    width: auto;
+    height: 100px;
 }
 #footer-section{
-    background-color: #3C2F9E;
-    width: 100px ;
-}
+    background-color: #9e2f82;
+    width: auto;
+    height: 100px;}
 
 @media   {
 
