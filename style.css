@@ -7,13 +7,16 @@ e - #2ACED1
 */
 
 #navbar {
-    background-color:#5b51a3;
+    background-color:#3b3566;
     width: auto;
     height: 100px;
 }
+#navbar ul {
+    
+}
 
 #welcome-section{
-    background-color:#6d4933;
+    background-color:#a51111;
     width: auto;
     height: 100px;
 }
@@ -25,13 +28,13 @@ e - #2ACED1
 }
 
 #profile-link{
-    background-color: #aad0c7;
+    background-color: #0c493b;
     width: auto;
     height: 100px;
 }
 
 #Cursos-tech{
-    background-color: #0f0b55;
+    background-color: #1b1938;
     width: auto;
     height: 100px;
 }
