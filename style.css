@@ -6,8 +6,28 @@ d - #D1B91F
 e - #2ACED1
 */
 
+#navbar {
+    background-color:#3C2F9E ;
+}
 
+#welcome-section{
+    background-color:#E0864F;
+}
 
+#projects{
+    background-color: #3478D1;
+}
+
+#profile-link{
+    background-color: #D1B91F;
+}
+
+#Cursos-tech{
+    background-color: #2ACED1;
+}
+#footer-section{
+    background-color: #3C2F9E;
+}
 
 @media   {
 
