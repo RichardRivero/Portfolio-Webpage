@@ -34,14 +34,21 @@ body{
     margin: 10px;
 
 }
+
 #welcome-section{
     /*background-color:#a51111;*/
-    width: auto;
+
     height: 400px;
     /*modificacion color*/
     background: rgba(59,53,102,1);
     background: linear-gradient(to bottom, rgba(59,53,102,1) 0%, rgba(165,17,17,1) 50%, rgba(145,168,197,1) 100%);
-  
+    /*propiedad flex*/
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-family: 'Ranchers', Courier, monospace;
 }
 
 #projects{
