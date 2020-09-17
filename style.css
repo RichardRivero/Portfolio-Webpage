@@ -5,6 +5,13 @@ c - #3478D1
 d - #D1B91F
 e - #2ACED1
 */
+body{
+
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+
+}
 
 #navbar {
     background-color:#3b3566;
