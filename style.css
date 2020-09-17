@@ -15,6 +15,7 @@ e - #2ACED1
     display: flex;
     flex-direction: row;
     justify-content: flex-end;
+    align-items: flex-end;
     
 }
 #navbar a{
@@ -25,18 +26,16 @@ e - #2ACED1
     margin: 10px;
 
 }
-}
-
 #welcome-section{
     background-color:#a51111;
     width: auto;
-    height: 100px;
+    height: 200px;
 }
 
 #projects{
     background-color: #91a8c5;
     width: auto;
-    height: 100px;
+    height: 200px;
 }
 
 #profile-link{
