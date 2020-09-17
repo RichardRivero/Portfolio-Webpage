@@ -11,15 +11,11 @@ e - #2ACED1
 body{
     margin: -1PX;
 
-    display: flex;
-    flex-direction: column;
-    align-items: stretch;
-
 }
 
 #navbar {
     background-color:#0c493b;
-    width: auto;
+    width: 100%;
     height: 100px;
 
     /*porpiedade flex */
