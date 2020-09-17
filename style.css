@@ -27,6 +27,7 @@ body{
     flex-direction: row;
     justify-content: flex-end;
     align-items: flex-end;
+    position: fixed;
     
 }
 #navbar a{
@@ -59,7 +60,7 @@ body{
 #projects{
     background-color: #91a8c5;
     width: auto;
-    height: 200px;
+    height: 400px;
 
     /*propiedad flex*/
     display: flex;
