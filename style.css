@@ -4,6 +4,9 @@ b - #E0864F
 c - #3478D1
 d - #D1B91F
 e - #2ACED1
+
+
+#3b3566
 */
 body{
     margin: -1PX;
@@ -15,7 +18,7 @@ body{
 }
 
 #navbar {
-    background-color:#3b3566;
+    background-color:#0c493b;
     width: auto;
     height: 100px;
 
@@ -39,9 +42,11 @@ body{
     /*background-color:#a51111;*/
 
     height: 400px;
+    border: 5px solid #1b1938;
+    
     /*modificacion color*/
     background: rgba(59,53,102,1);
-    background: linear-gradient(to bottom, rgba(59,53,102,1) 0%, rgba(165,17,17,1) 50%, rgba(145,168,197,1) 100%);
+    /* background: linear-gradient(to bottom, rgba(59,53,102,1) 0%, rgba(165,17,17,1) 50%, rgba(145,168,197,1) 100%);*/
     /*propiedad flex*/
     display: flex;
     flex-direction: column;
@@ -55,6 +60,14 @@ body{
     background-color: #91a8c5;
     width: auto;
     height: 200px;
+
+    /*propiedad flex*/
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-family: 'Ranchers', Courier, monospace;
 }
 
 #profile-link{
