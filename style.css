@@ -10,9 +10,21 @@ e - #2ACED1
     background-color:#3b3566;
     width: auto;
     height: 100px;
-}
-#navbar ul {
+
+    /*porpiedade flex */
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
     
+}
+#navbar a{
+    color:white;
+    text-decoration: none;
+    font-family: 'Ranchers', Courier, monospace;
+    font-size: 1.5em;
+    margin: 10px;
+
+}
 }
 
 #welcome-section{
