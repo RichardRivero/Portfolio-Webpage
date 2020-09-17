@@ -69,6 +69,11 @@ body{
     align-items: center;
     color: white;
     font-family: 'Ranchers', Courier, monospace;
+
+}
+
+#projects a{
+    text-decoration: none;
 }
 
 #profile-link{
