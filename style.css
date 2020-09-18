@@ -74,13 +74,19 @@ body{
 }
 #projects a p{
     text-align: center;
+    font-size: 1.5em;
+    /*padding: 10px;*/
     background-color:#0c493b;
     margin: 0;
+    width: 460px;
+    height: 15%;
 }
 
 #projects a img{
-    width: 450px;
+    align-items: center;
+    width: 460px;
     height: auto;
+    border-radius: 25px 25px 0px 0px;
 }
 /*nombrando componentes*/
 
@@ -101,6 +107,7 @@ body{
     display: grid;
     grid-template-columns: 50% 50%;
     grid-template-rows: 50% 50%;
+    justify-items: stretch;
     grid-template-areas: 
     "area1 area2"
     "area3 area4"
@@ -122,9 +129,11 @@ body{
     height: 100px;
 }
 #footer-section{
-    background-color: #9e2f82;
+    background-color: #1b1938;
     width: auto;
-    height: 100px;}
+    height: 100px;
+    border-top: 3px solid #91a8c5;
+}
 /*
 @media   {
 
