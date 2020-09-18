@@ -79,6 +79,22 @@ body{
     width: 25%;
     height: 25%;
 }
+/*nombrando componentes*/
+
+#img-a1{
+    grid-area: area1;
+}
+#img-a2{
+    grid-area: area2;
+}
+#img-a3{
+    grid-area: area3;
+}
+#img-a4{
+    grid-area: area4;
+}
+
+
 #rej-proyectos{
     display: grid;
     grid-template-columns: 50% 50%;
