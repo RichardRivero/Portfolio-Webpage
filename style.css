@@ -67,6 +67,9 @@ body{
     font-family: 'Ranchers', Courier, monospace;
 
 }
+#projects p{
+    margin: 100px;
+}
 
 #projects a{
     text-decoration: none;
