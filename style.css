@@ -56,7 +56,7 @@ body{
 #projects{
     background-color: #91a8c5;
     width: auto;
-    height: 400px;
+    height: auto;
 
     /*propiedad flex*/
     display: flex;
@@ -71,10 +71,16 @@ body{
 #projects a{
     text-decoration: none;
 }
+#projects a p{
+    text-align: center;
+}
 
 #projects a img{
     width: 25%;
     height: 25%;
+}
+#rej-proyectos{
+    display: grid;
 }
 
 #profile-link{
