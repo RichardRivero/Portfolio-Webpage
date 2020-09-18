@@ -73,11 +73,13 @@ body{
     margin: 20px
 }
 #projects a p{
-    /*text-align: center;*/
+    text-align: center;
+    background-color:#0c493b;
+    margin: 0;
 }
 
 #projects a img{
-    width: 400px;
+    width: 450px;
     height: auto;
 }
 /*nombrando componentes*/
