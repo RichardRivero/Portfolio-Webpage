@@ -72,6 +72,11 @@ body{
     text-decoration: none;
 }
 
+#projects a img{
+    width: 100px;
+    height: 100px;
+}
+
 #profile-link{
     background-color: #0c493b;
     width: auto;
