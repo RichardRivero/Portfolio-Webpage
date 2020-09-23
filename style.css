@@ -8,6 +8,31 @@ e - #2ACED1
 
 #3b3566
 */
+
+/* list icon 
+ pendientes si es  far o fas
+ y antes de el nombre del ico va "fas-"
+
+<i class="far fa-copyright"></i>
+
+
+angle-left
+angle-right
+
+github
+gitlab
+codepen
+envelope
+linkedin
+
+folder
+mobile-alt
+
+smile-wink
+smile
+
+thumbs-up
+
 /*fuentes */
 @import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
 
