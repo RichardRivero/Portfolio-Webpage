@@ -8,6 +8,9 @@ e - #2ACED1
 
 #3b3566
 */
+/*fuentes */
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
 body{
     margin: -1PX;
 
@@ -29,7 +32,7 @@ body{
 #navbar a{
     color:white;
     text-decoration: none;
-    font-family: 'Ranchers', Courier, monospace;
+    font-family: 'Lato', Courier, monospace;
     font-size: 1.5em;
     margin: 10px;
 
@@ -50,7 +53,7 @@ body{
     justify-content: center;
     align-items: center;
     color: white;
-    font-family: 'Ranchers', Courier, monospace;
+    font-family: 'Lato', Courier, monospace;
 }
 
 #projects{
@@ -64,7 +67,7 @@ body{
     justify-content: center;
     align-items: center;
     color: white;
-    font-family: 'Ranchers', Courier, monospace;
+    font-family: 'Lato', Courier, monospace;
 
 }
 #projects p{
