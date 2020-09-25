@@ -185,6 +185,7 @@ body{
      flex-direction: row;
      justify-content: center;
      align-items: center;
+    justify-items: stretch;
 }
 
 #Cursos-tech{
