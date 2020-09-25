@@ -81,9 +81,13 @@ body{
     font-family: 'Lato', Courier, monospace;
 }
 
+.tamano{
+ font-size: 30%;
+
+}
 .sub-parrafo{
     color: black;
-    font-size: 1.2em;
+    font-size: 1.6em;
 
 }
 
@@ -118,6 +122,12 @@ body{
     margin: 0;
     width: 460px;
     height: 15%;
+}
+
+.boton-redondo{
+    border-radius: 15px;
+    text-decoration: none;
+    color: blueviolet;
 }
 
 #projects a img{
