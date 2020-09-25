@@ -106,8 +106,9 @@ body{
     align-items: center;
     color: white;
     font-family: 'Lato', Courier, monospace;
-
 }
+
+
 #projects p{
     margin: 100px;
 }
@@ -130,9 +131,9 @@ body{
     border-radius: 15px;
     text-decoration: none;
     color: blueviolet;
-    padding: 10px;
-    
+    line-height: 25px;
 }
+
 
 #projects a img{
     align-items: center;
