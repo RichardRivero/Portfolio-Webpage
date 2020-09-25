@@ -107,7 +107,11 @@ body{
     color: white;
     font-family: 'Lato', Courier, monospace;
 }
+.cabeza{
+    font-size: 200% ;
+    margin-top: 150px ;
 
+}
 
 #projects p{
     margin: 100px;
