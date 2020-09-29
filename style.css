@@ -137,9 +137,12 @@ body{
     border-radius: 15px;
     text-decoration: none;
     color: blueviolet;
-    /*line-height: 45px;*/
+    
 }
 
+.text-l{
+    line-height: 0px;
+}
 
 #projects a img{
     align-items: center;
