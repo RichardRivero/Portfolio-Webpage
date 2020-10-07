@@ -150,7 +150,7 @@ body{
     height: 600px;
      /*propiedad flex*/
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: space-around;
     align-items: center;
     justify-items: stretch;
@@ -177,11 +177,25 @@ body{
  }
  
  .profile-link-cap{
+    padding-top: 50px;
+    color:white;
+    text-shadow: 5px 5px 5px red;
     text-align: center;
     font-size: 1.5em;
     font-family: 'Lato', Courier, monospace;
  }
 
+ .profile-link-2{
+    background-color: #0c493b;
+    width: auto;
+    height: 600px;
+     /*propiedad flex*/
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    justify-items: stretch;
+}
 
  :hover
 /*
