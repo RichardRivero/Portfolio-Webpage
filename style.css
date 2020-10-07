@@ -31,7 +31,7 @@ body{
 .welcome-section{
     /*background-color:#a51111;*/
 
-    height: 650px;
+    height: 900px;
     border: 5px solid #1b1938;
     
     /*modificacion color*/
@@ -196,6 +196,8 @@ body{
     align-items: center;
     justify-items: stretch;
 }
+
+
 
  :hover
 /*
