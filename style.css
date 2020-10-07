@@ -25,12 +25,13 @@ body{
     font-family: 'Lato', Courier, monospace;
     font-size: 1.6em;
     margin: 10px;
-
 }
 
+.navbar-section{
+    z-index: 1;
+}
 .welcome-section{
     /*background-color:#a51111;*/
-
     height: 900px;
     border: 5px solid #1b1938;
     
@@ -38,6 +39,22 @@ body{
     background: rgba(59,53,102,1);
     /* background: linear-gradient(to bottom, rgba(59,53,102,1) 0%, rgba(165,17,17,1) 50%, rgba(145,168,197,1) 100%);*/
     /*propiedad flex*/
+
+}
+.wel-table-boar{
+
+    position: relative;
+    margin-top: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 400px;
+    width: 70%;
+    background-color: wheat;
+    border-radius: 15px;
+    -webkit-box-shadow: 53px 42px 43px 16px rgba(61,47,61,0.57);
+    -moz-box-shadow: 53px 42px 43px 16px rgba(61,47,61,0.57);
+    box-shadow: 53px 42px 43px 16px rgba(61,47,61,0.57);
+
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -45,7 +62,6 @@ body{
     color: white;
     font-family: 'Lato', Courier, monospace;
 }
-
 .tamano{
  font-size: 300%;
 }
@@ -55,10 +71,11 @@ body{
 .sub-parrafo{
     color: black;
     font-size: 1.6em;
-
 }
 
-
+.text-decoracion{
+    text-shadow:10px 10px 12px rgba(0,0,0,0.75);
+}
 #projects{
     background-color: #91a8c5;
     width: auto;
