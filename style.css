@@ -47,6 +47,8 @@ body{
     margin-top: 200px;
     margin-left: auto;
     margin-right: auto;
+    color:#0c493b;
+    font-weight: 400;
     height: 400px;
     width: 70%;
     background-color: wheat;
@@ -214,6 +216,9 @@ body{
     justify-items: stretch;
 }
 
+.footer-z{
+    text-align: center;
+}
 
 
  :hover
