@@ -197,18 +197,20 @@ body{
  }
  
  .profile-link-cap{
-    padding-top: 50px;
+    padding-top: 20px;
     color:white;
     text-shadow: 5px 5px 5px red;
     text-align: center;
     font-size: 1.5em;
     font-family: 'Lato', Courier, monospace;
+    margin: 30px;
  }
 
  .profile-link-2{
     background-color: #0c493b;
     width: auto;
     height: 600px;
+    margin: 20px;
      /*propiedad flex*/
     display: flex;
     flex-direction: row;
@@ -219,6 +221,7 @@ body{
 
 .footer-z{
     text-align: center;
+    
 }
 
 
@@ -232,15 +235,16 @@ body{
     }
 
     #rej-proyectos{
-        grid-template-rows: 0 0;
-        column-gap: 0;
-        row-gap: 0;
+        
         grid-template-areas: 
         "area1 "
         "area2"
         "area3"
         "area4"
         ;
+        grid-template-rows: 0 0;
+        /*column-gap: 0;
+        row-gap: 0;*/
     }
 
     #projects a img{
