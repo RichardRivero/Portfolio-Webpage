@@ -47,6 +47,7 @@ body{
     margin-top: 200px;
     margin-left: auto;
     margin-right: auto;
+    padding: 20px;
     color:#0c493b;
     font-weight: 400;
     height: 400px;
@@ -223,7 +224,6 @@ body{
 
 @media screen and (max-width: 720px){
 
-
     #navbar {
         /*porpiedade flex */
         display: flex;
@@ -232,9 +232,6 @@ body{
     }
 
     #rej-proyectos{
-        display: grid;
-        grid-template-columns: 50% 50%;
-        grid-template-rows: 50% 50%;
         grid-template-areas: 
         "area1 "
         "area2"
