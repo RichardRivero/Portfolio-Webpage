@@ -232,6 +232,9 @@ body{
     }
 
     #rej-proyectos{
+        grid-template-rows: 0 0;
+        column-gap: 0;
+        row-gap: 0;
         grid-template-areas: 
         "area1 "
         "area2"
