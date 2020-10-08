@@ -100,7 +100,8 @@ body{
 }
 
 #projects p{
-    margin: 100px;
+    margin: 70px;
+    border-radius: 20px;
 }
 
 #projects a{
@@ -116,6 +117,14 @@ body{
     width: 460px;
     height: 15%;
     padding-top: 10px;
+}
+
+.mod-p{
+    text-align: center;
+    font-size: 1.5em;
+    background-color:#0c493b;
+    margin: 0;
+    border-radius: 20pxs;
 }
 
 .boton-redondo{
