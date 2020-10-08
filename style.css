@@ -221,6 +221,7 @@ body{
 
 .footer-z{
     text-align: center;
+    color:rgba(161, 179, 141, 0.72);
     
 }
 
@@ -253,6 +254,10 @@ body{
     #projects a p{
         width: 345px;
     }
-
+    .profile-link-cap{
+        padding-top: 10px;
+        font-size: 1.2em;
+        margin: 15px;
+     }
 
 }
