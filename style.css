@@ -9,7 +9,7 @@ body{
 #navbar {
     background-color:#0c493b;
     width: 100%;
-    po
+    margin-top: 0px;
     /*porpiedade flex */
     display: flex;
     flex-direction: row;
@@ -36,8 +36,8 @@ body{
 }
 .wel-table-boar{
 
-    position: relative;
-    margin-top: 150px;
+    /*position: relative;*/
+    /*margin-top: 150px;*/
     margin-left: auto;
     margin-right: auto;
     padding: 30px;
