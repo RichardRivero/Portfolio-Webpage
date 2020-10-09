@@ -2,14 +2,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
 
 body{
-    margin: -1PX;
+   margin: -1PX;
 
 }
 
 #navbar {
     background-color:#0c493b;
     width: 100%;
-
+    po
     /*porpiedade flex */
     display: flex;
     flex-direction: row;
@@ -31,9 +31,7 @@ body{
 }
 .welcome-section{
     height: 100vh;
-    border: 5px solid #1b1938;
-    
-   
+
     background: rgba(59,53,102,1);
 }
 .wel-table-boar{
@@ -181,11 +179,6 @@ body{
     justify-items: stretch;
 }
 
-#Cursos-tech{
-    background-color: #1b1938;
-    width: auto;
-    height: 100px;
-}
 #footer-section{
     background-color: #1b1938;
     width: auto;
