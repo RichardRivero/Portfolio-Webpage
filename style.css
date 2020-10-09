@@ -31,18 +31,17 @@ body{
 }
 .welcome-section{
     height: 100vh;
-
     background: rgba(59,53,102,1);
 }
 .wel-table-boar{
-
-    /*position: relative;*/
-    /*margin-top: 150px;*/
+    position: relative;
     margin-left: auto;
     margin-right: auto;
+    text-align: center;
     padding: 30px;
+    background-color: wheat;
     color:#0c493b;
-    font-weight: 400;
+    font-weight: 600;
     height: 250px;
     width: 70%;
     border-radius: 15px;
