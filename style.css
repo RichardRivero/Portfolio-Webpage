@@ -33,7 +33,7 @@ body{
     height: 100vh;
     border: 5px solid #1b1938;
     
-    /*modificacion color*/
+   
     background: rgba(59,53,102,1);
 }
 .wel-table-boar{
@@ -75,6 +75,7 @@ body{
     text-shadow:10px 10px 12px rgba(0,0,0,0.75);
 }
 #projects{
+    border: 5px solid #1b1938;
     background-color: #91a8c5;
     width: auto;
     height: auto;
